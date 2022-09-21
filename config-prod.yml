@@ -1,0 +1,2 @@
+config:
+  info: prod brach,springcloud-config/config-prod.yml version=1
